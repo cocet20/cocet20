@@ -1,2 +1,2 @@
 # cocet20
-ocet Ganteng
+Cocet Ganteng
